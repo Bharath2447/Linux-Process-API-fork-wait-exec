@@ -48,7 +48,8 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](./ex02-1.png)
+![ex02-1](https://github.com/user-attachments/assets/d678b82b-e9f9-4447-be80-803c731797c7)
+
 
 
 ## C Program to create new process using Linux API system calls fork() and exit()
@@ -84,7 +85,8 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## output
 
-![Alt text](./ex02-3.png)
+![ex02-3](https://github.com/user-attachments/assets/85abfc78-e381-4eea-9bda-355960781f92)
+
 
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -136,7 +138,8 @@ int main() {
 
 ## OUTPUT
 
-![Alt text](./ex02-2.png)
+![ex02-2](https://github.com/user-attachments/assets/bdfa17b8-2d2f-482b-9d74-3b53942004af)
+
 
 
 # RESULT:
